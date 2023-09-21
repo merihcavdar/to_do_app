@@ -1,16 +1,12 @@
-# to_do_app
+# To Do App
 
-A new Flutter project.
+an App for tracking daily task in to-do format in Flutter
 
-## Getting Started
+## Screenshot
+![todo_app](https://github.com/merihcavdar/to_do_app/assets/84540989/b0f801bc-de8b-457d-a538-d4679c4e708b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Hive for offline data persistence storage
+- 3rd library called Slidable and flutter_icon usage from pub.dev
+- Async coding
+- Layout, navigation, data structures usage
